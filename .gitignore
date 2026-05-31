@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.bak
+
+# Images sources (keep exported PNGs)
+*.psd
+*.xcf
+
+# Claude
+.claude/
