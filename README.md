@@ -6,7 +6,7 @@
 ## Площадки
 
 - 🟣 **Дзен** — [DarAI | AI-агенты](https://dzen.ru/id/5b4891ce78c21800a90ac285) — рецепты, ликбез, деньги
-- 🟦 **Хабр** — [skysamurai](https://habr.com/ru/users/skysamurai/) — технические статьи
+- 🟦 **Хабр** — [skysamurai](https://habr.com/ru/users/skysamurai/) — технические статьи. Первая статья: [Чат-бот vs Агент](https://habr.com/ru/sandbox/287172/)
 - ✈️ **Telegram** — [OpenClaw | AI-агенты](https://t.me/+KvEV5kiyEyY2YWMy) — сообщество и прогрев
 - 🐙 **GitHub** — [openclaw-blog](https://github.com/skysamurai/openclaw-blog) — исходники постов
 
