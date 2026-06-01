@@ -5,12 +5,10 @@
 
 ## Площадки
 
-- 🟣 **Дзен** — [создать канал] рецепты, ликбез, деньги
-- 🟦 **Хабр** — [skysamurai](https://habr.com/ru/users/skysamurai/) технические статьи
-- ✈️ **Telegram** — [создать канал] сообщество и прогрев
-- 🐙 **GitHub** — [openclaw-blog](https://github.com/skysamurai/openclaw-blog) исходники постов
-
-> ⚠️ URL Дзена и Telegram будут добавлены после создания каналов.
+- 🟣 **Дзен** — [DarAI | AI-агенты](https://dzen.ru/id/5b4891ce78c21800a90ac285) — рецепты, ликбез, деньги
+- 🟦 **Хабр** — [skysamurai](https://habr.com/ru/users/skysamurai/) — технические статьи
+- ✈️ **Telegram** — [OpenClaw | AI-агенты](https://t.me/+KvEV5kiyEyY2YWMy) — сообщество и прогрев
+- 🐙 **GitHub** — [openclaw-blog](https://github.com/skysamurai/openclaw-blog) — исходники постов
 
 ## Структура
 
