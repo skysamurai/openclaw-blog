@@ -1,0 +1,444 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - menuitem "overnightGuest" [ref=e629] [cursor=pointer]:
+          - img [ref=e632]
+          - button "overnightGuest" [ref=e634]
+        - link "Add Account" [ref=e640] [cursor=pointer]:
+          - /url: https://web.telegram.org/a/?account=2#login
+          - generic [ref=e641]: 
+          - text: Add Account
+        - menuitem "My Profile" [ref=e643] [cursor=pointer]:
+          - generic [ref=e644]: 
+          - text: My Profile
+        - menuitem "Saved Messages" [ref=e645] [cursor=pointer]:
+          - generic [ref=e646]: 
+          - text: Saved Messages
+        - menuitem "Contacts" [ref=e647] [cursor=pointer]:
+          - generic [ref=e648]: 
+          - text: Contacts
+        - menuitem "Wallet" [ref=e649] [cursor=pointer]: Wallet
+        - menuitem "Settings" [ref=e651] [cursor=pointer]:
+          - generic [ref=e652]: 
+          - text: Settings
+        - menuitem "More" [active] [ref=e654] [cursor=pointer]:
+          - generic [ref=e655]: 
+          - text: More
+          - generic [ref=e656]: 
+    - generic:
+      - generic:
+        - menuitem "Night Mode" [ref=e657] [cursor=pointer]:
+          - generic [ref=e658]: 
+          - generic [ref=e659]: Night Mode
+          - generic "Enable night mode" [ref=e660]
+        - menuitem "UI Features" [ref=e662] [cursor=pointer]:
+          - generic [ref=e663]: 
+          - generic [ref=e664]: UI Features
+        - menuitem "Telegram Features" [ref=e667] [cursor=pointer]:
+          - generic [ref=e668]: 
+          - text: Telegram Features
+        - menuitem "Report a Bug" [ref=e669] [cursor=pointer]:
+          - generic [ref=e670]: 
+          - text: Report a Bug
+        - link "Switch to K Version" [ref=e671] [cursor=pointer]:
+          - /url: https://web.telegram.org/k
+          - generic [ref=e672]: K
+          - text: Switch to K Version
+        - menuitem "Install App" [ref=e673] [cursor=pointer]:
+          - generic [ref=e674]: 
+          - text: Install App
+        - generic [ref=e675]: Telegram Web A 12.0.29
+  - generic [ref=e35]:
+    - generic [ref=e37]:
+      - button "Open menu" [ref=e39] [cursor=pointer]
+      - generic [ref=e41]:
+        - generic [ref=e44]: 
+        - button "Open Story List" [ref=e45] [cursor=pointer]:
+          - img "Тимурик Энергия Казань" [ref=e48]
+          - img "Инна" [ref=e51]
+          - img "Салават Рахимович Ильясов" [ref=e54]
+        - textbox "Search" [ref=e55]
+      - button [ref=e57] [cursor=pointer]
+    - generic [ref=e62]:
+      - generic [ref=e65]:
+        - generic [ref=e66] [cursor=pointer]:
+          - text: s21
+          - generic [ref=e67]: "1"
+        - generic [ref=e68] [cursor=pointer]:
+          - text: All Chats
+          - generic [ref=e69]: "476"
+        - generic [ref=e70] [cursor=pointer]:
+          - text: Humans
+          - generic [ref=e71]: "2"
+        - generic [ref=e72] [cursor=pointer]:
+          - text: Work
+          - img "⚡" [ref=e73]
+        - generic [ref=e74] [cursor=pointer]:
+          - text: Crypto
+          - generic [ref=e75]: "16"
+        - generic [ref=e76] [cursor=pointer]:
+          - text: It money
+          - generic [ref=e77]: "1"
+        - generic [ref=e78] [cursor=pointer]:
+          - text: Junior jobs
+          - generic [ref=e79]: "13"
+        - generic [ref=e80] [cursor=pointer]:
+          - text: IT
+          - generic [ref=e81]: "21"
+        - generic [ref=e82] [cursor=pointer]:
+          - text: Казань
+          - generic [ref=e83]: "7"
+        - generic [ref=e84] [cursor=pointer]:
+          - text: Обучение
+          - generic [ref=e85]: "1"
+        - generic [ref=e86] [cursor=pointer]:
+          - text: Арбитраж
+          - generic [ref=e87]: "6"
+        - generic [ref=e88] [cursor=pointer]:
+          - text: SРАМ
+          - generic [ref=e89]: "6"
+        - generic:
+          - generic:
+            - text: s21
+            - generic: "1"
+          - generic:
+            - text: All Chats
+            - generic: "476"
+          - generic:
+            - text: Humans
+            - generic: "2"
+          - generic:
+            - text: Work
+            - img
+          - generic:
+            - text: Crypto
+            - generic: "16"
+          - generic:
+            - text: It money
+            - generic: "1"
+          - generic:
+            - text: Junior jobs
+            - generic: "13"
+          - generic:
+            - text: IT
+            - generic: "21"
+          - generic:
+            - text: Казань
+            - generic: "7"
+          - generic:
+            - text: Обучение
+            - generic: "1"
+          - generic:
+            - text: Арбитраж
+            - generic: "6"
+          - generic:
+            - text: SРАМ
+            - generic: "6"
+      - generic [ref=e91]:
+        - generic:
+          - link "Изнула 21 Изнула 21 Apr 28 Работаю" [ref=e93] [cursor=pointer]:
+            - /url: "#1510426188"
+            - img "Изнула 21" [ref=e98]
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - button "Изнула 21" [ref=e102]
+                - generic [ref=e104]: Apr 28
+              - generic [ref=e105]:
+                - paragraph [ref=e106]:
+                  - generic [ref=e107]: Работаю
+                - generic [ref=e110]: 
+          - link "Татьяна❤️❤️❤️ My Love Татьяна ❤️ ❤️ ❤️ My Love 08:40 ага)))" [ref=e112] [cursor=pointer]:
+            - /url: "#695943176"
+            - img "Татьяна❤️❤️❤️ My Love" [ref=e117]
+            - generic [ref=e118]:
+              - generic [ref=e119]:
+                - button "Татьяна ❤️ ❤️ ❤️ My Love" [ref=e121]:
+                  - text: Татьяна
+                  - img "❤️" [ref=e122]
+                  - img "❤️" [ref=e123]
+                  - img "❤️" [ref=e124]
+                  - text: My Love
+                - generic [ref=e132]: 08:40
+              - generic [ref=e133]:
+                - paragraph [ref=e134]:
+                  - generic [ref=e135]: ага)))
+                - generic [ref=e138]: 
+          - 'link "Сообщество выпускников Alumni21 Сообщество выпускников Alumni21 Sun Флудилка 🐣 Alumni Москва Вакансии Александр : чета насмешило 9" [ref=e140] [cursor=pointer]':
+            - /url: "#-1001748014136"
+            - img "Сообщество выпускников Alumni21" [ref=e145]
+            - generic [ref=e146]:
+              - generic [ref=e147]:
+                - button "Сообщество выпускников Alumni21" [ref=e149]
+                - generic [ref=e150]: 
+                - generic [ref=e152]: Sun
+              - generic [ref=e153]:
+                - generic:
+                  - generic:
+                    - generic [ref=e154]:
+                      - generic [ref=e155]: 
+                      - generic [ref=e156]:
+                        - text: Флудилка
+                        - img "🐣" [ref=e157]
+                    - generic:
+                      - generic: Alumni Москва
+                      - generic: Вакансии
+                  - paragraph [ref=e161]:
+                    - generic [ref=e162]: Александр
+                    - generic [ref=e163]: ":"
+                    - generic [ref=e165]: чета насмешило
+                - generic [ref=e168]: "9"
+          - 'link "STARTUP 21 STARTUP 21 Fri You : https://t.me/+rlPTEu7a77M3MTky" [ref=e170] [cursor=pointer]':
+            - /url: "#-1003109233181"
+            - img "STARTUP 21" [ref=e175]
+            - generic [ref=e176]:
+              - generic [ref=e177]:
+                - button "STARTUP 21" [ref=e179]
+                - generic [ref=e180]: 
+                - generic [ref=e181]:
+                  - generic [ref=e185]: 
+                  - generic [ref=e186]: Fri
+              - paragraph [ref=e188]:
+                - generic [ref=e189]: You
+                - generic [ref=e190]: ":"
+                - generic [ref=e192]: https://t.me/+rlPTEu7a77M3MTky
+          - 'link "21 hostel 21 hostel Thu Марина : #kzn_adm 🗣 Marina ADM KZN Привет! Кто не успел зарегистрироваться на зелёный марафон, есть возможность это сделать Но нужно как можно быстрее так как таких доп. мест не много В тред скину кюар по..." [ref=e194] [cursor=pointer]':
+            - /url: "#-1001659226256"
+            - img "21 hostel" [ref=e199]
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - button "21 hostel" [ref=e203]
+                - generic [ref=e204]: 
+                - generic [ref=e206]: Thu
+              - paragraph [ref=e208]:
+                - generic [ref=e209]: Марина
+                - generic [ref=e210]: ":"
+                - generic [ref=e211]: 
+                - generic [ref=e212]:
+                  - text: "#kzn_adm"
+                  - img "🗣" [ref=e213]
+                  - text: Marina ADM KZN Привет! Кто не успел зарегистрироваться на зелёный марафон, есть возможность это сделать Но нужно как можно быстрее так как таких доп. мест не много В тред скину кюар по...
+          - link "Адель Пожарка Адель Пожарка May 18 В последнее время паспорт просят иногда еще" [ref=e215] [cursor=pointer]:
+            - /url: "#53201379"
+            - img "Адель Пожарка" [ref=e220]
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - button "Адель Пожарка" [ref=e224]
+                - generic [ref=e226]: May 18
+              - paragraph [ref=e228]:
+                - generic [ref=e229]: В последнее время паспорт просят иногда еще
+          - 'link "Йобнутые Йобнутые May 18 Бүләт : Можем собираться" [ref=e231] [cursor=pointer]':
+            - /url: "#-1001756431236"
+            - img "Йобнутые" [ref=e236]
+            - generic [ref=e237]:
+              - generic [ref=e238]:
+                - button "Йобнутые" [ref=e240]
+                - generic [ref=e242]: May 18
+              - paragraph [ref=e244]:
+                - generic [ref=e245]: Бүләт
+                - generic [ref=e246]: ":"
+                - generic [ref=e247]: Можем собираться
+          - link "Виктория Кошечка Виктория Кошечка May 16 Это ещё в Казани началось)" [ref=e249] [cursor=pointer]:
+            - /url: "#955361549"
+            - img "Виктория Кошечка" [ref=e254]
+            - generic [ref=e255]:
+              - generic [ref=e256]:
+                - generic [ref=e257]:
+                  - button "Виктория Кошечка" [ref=e258]
+                  - img [ref=e260]
+                - generic [ref=e263]: May 16
+              - paragraph [ref=e265]:
+                - generic [ref=e266]: Это ещё в Казани началось)
+          - link "Дидар 21 Дидар 21 May 14 1-20" [ref=e268] [cursor=pointer]:
+            - /url: "#711718738"
+            - img "Дидар 21" [ref=e273]
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - button "Дидар 21" [ref=e277]
+                - generic [ref=e278]: 
+                - generic [ref=e280]: May 14
+              - paragraph [ref=e282]:
+                - generic [ref=e283]: 1-20
+          - link "Юсуп Москва 21 Юсуп Москва 21 May 8 🎤 Voice Message" [ref=e285] [cursor=pointer]:
+            - /url: "#349850372"
+            - generic "Юсуп Москва 21" [ref=e288]:
+              - generic [ref=e290]: ЮМ
+            - generic [ref=e291]:
+              - generic [ref=e292]:
+                - button "Юсуп Москва 21" [ref=e294]
+                - generic [ref=e296]: May 8
+              - paragraph [ref=e298]:
+                - generic [ref=e300]:
+                  - img "🎤" [ref=e301]
+                  - text: Voice Message
+          - link "Зульфия Зульфия Apr 24 В ЭТМ есть скидка если надо" [ref=e303] [cursor=pointer]:
+            - /url: "#488189229"
+            - img "Зульфия" [ref=e308]
+            - generic [ref=e309]:
+              - generic [ref=e310]:
+                - button "Зульфия" [ref=e312]
+                - generic [ref=e317]: 
+                - generic [ref=e318]:
+                  - generic [ref=e322]: 
+                  - generic [ref=e323]: Apr 24
+              - paragraph [ref=e325]:
+                - generic [ref=e326]: В ЭТМ есть скидка если надо
+          - link "Вика Милая Вика Милая Apr 21 бота тестить)" [ref=e328] [cursor=pointer]:
+            - /url: "#818545637"
+            - img "Вика Милая" [ref=e333]
+            - generic [ref=e334]:
+              - generic [ref=e335]:
+                - button "Вика Милая" [ref=e337]
+                - generic [ref=e338]:
+                  - generic [ref=e342]: 
+                  - generic [ref=e343]: Apr 21
+              - paragraph [ref=e345]:
+                - generic [ref=e346]: бота тестить)
+          - link "Aura_ Philomena Aura_ Philomena Apr 15 23 мая" [ref=e348] [cursor=pointer]:
+            - /url: "#639758738"
+            - generic "Aura_ Philomena" [ref=e351]:
+              - generic [ref=e353]: AP
+            - generic [ref=e354]:
+              - generic [ref=e355]:
+                - generic [ref=e356]:
+                  - button "Aura_ Philomena" [ref=e357]
+                  - img [ref=e359]
+                - generic [ref=e361]: 
+                - generic [ref=e363]: Apr 15
+              - paragraph [ref=e365]:
+                - generic [ref=e366]: 23 мая
+          - link "Kadyr Kadyr Apr 14 🤷" [ref=e368] [cursor=pointer]:
+            - /url: "#5147583938"
+            - img "Kadyr" [ref=e373]
+            - generic [ref=e374]:
+              - generic [ref=e375]:
+                - button "Kadyr" [ref=e377]
+                - generic [ref=e382]: 
+                - generic [ref=e384]: Apr 14
+              - paragraph [ref=e386]:
+                - img "🤷" [ref=e388]
+          - link "Надя Олейник Надя Олейник Mar 23 Поправляйся и не калечся больше, ты у себя один!" [ref=e390] [cursor=pointer]:
+            - /url: "#476528090"
+            - img "Надя Олейник" [ref=e395]
+            - generic [ref=e396]:
+              - generic [ref=e397]:
+                - button "Надя Олейник" [ref=e399]
+                - generic [ref=e404]: 
+                - generic [ref=e406]: Mar 23
+              - paragraph [ref=e408]:
+                - generic [ref=e409]: Поправляйся и не калечся больше, ты у себя один!
+          - link "Миша 21 Миша 21 Mar 23 Мы дома сладкий, не волнуйся" [ref=e411] [cursor=pointer]:
+            - /url: "#416221316"
+            - img "Миша 21" [ref=e416]
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - button "Миша 21" [ref=e420]
+                - generic [ref=e425]: 
+                - generic [ref=e426]:
+                  - generic [ref=e430]: 
+                  - generic [ref=e431]: Mar 23
+              - paragraph [ref=e433]:
+                - generic [ref=e434]: Мы дома сладкий, не волнуйся
+          - link "Альбина 21 Альбина 21 Mar 16 Ближе к северной границе Крыма (откуда до Одессы по морю недалеко) очень дешевая земля, прям сильно Как сво закончится скорее всего взлетит ценник" [ref=e436] [cursor=pointer]:
+            - /url: "#1029668278"
+            - img "Альбина 21" [ref=e441]
+            - generic [ref=e442]:
+              - generic [ref=e443]:
+                - button "Альбина 21" [ref=e445]
+                - generic [ref=e446]: 
+                - generic [ref=e448]: Mar 16
+              - paragraph [ref=e450]:
+                - generic [ref=e451]: Ближе к северной границе Крыма (откуда до Одессы по морю недалеко) очень дешевая земля, прям сильно Как сво закончится скорее всего взлетит ценник
+          - link "Katerina Molotova Katerina Molotova Mar 13 9961071986 озон" [ref=e453] [cursor=pointer]:
+            - /url: "#853338017"
+            - img "Katerina Molotova" [ref=e458]
+            - generic [ref=e459]:
+              - generic [ref=e460]:
+                - button "Katerina Molotova" [ref=e462]
+                - generic [ref=e467]: 
+                - generic [ref=e468]:
+                  - generic [ref=e472]: 
+                  - generic [ref=e473]: Mar 13
+              - paragraph [ref=e475]:
+                - generic [ref=e476]: 9961071986 озон
+          - link "Daniil Daniil Mar 8 Поехали" [ref=e478] [cursor=pointer]:
+            - /url: "#371190392"
+            - img "Daniil" [ref=e483]
+            - generic [ref=e484]:
+              - generic [ref=e485]:
+                - button "Daniil" [ref=e487]
+                - generic [ref=e488]:
+                  - generic [ref=e492]: 
+                  - generic [ref=e493]: Mar 8
+              - paragraph [ref=e495]:
+                - generic [ref=e496]: Поехали
+          - link "Alexei Kovalev21 Alexei Kovalev21 Mar 6 Понял" [ref=e498] [cursor=pointer]:
+            - /url: "#201975782"
+            - img "Alexei Kovalev21" [ref=e503]
+            - generic [ref=e504]:
+              - generic [ref=e505]:
+                - button "Alexei Kovalev21" [ref=e507]
+                - generic [ref=e512]: 
+                - generic [ref=e513]:
+                  - generic [ref=e517]: 
+                  - generic [ref=e518]: Mar 6
+              - paragraph [ref=e520]:
+                - generic [ref=e521]: Понял
+          - link "Дарья Константиновна Никитина Дарья Константиновна Никитина Feb 3 В прямом смысле" [ref=e523] [cursor=pointer]:
+            - /url: "#316608644"
+            - img "Дарья Константиновна Никитина" [ref=e528]
+            - generic [ref=e529]:
+              - generic [ref=e530]:
+                - button "Дарья Константиновна Никитина" [ref=e532]
+                - generic [ref=e534]: Feb 3
+              - paragraph [ref=e536]:
+                - generic [ref=e537]: В прямом смысле
+          - link "Daníł Bobur Daníł Bobur Jan 19 Эти видимо решили не экспериментировать)" [ref=e539] [cursor=pointer]:
+            - /url: "#665320227"
+            - img "Daníł Bobur" [ref=e544]
+            - generic [ref=e545]:
+              - generic [ref=e546]:
+                - button "Daníł Bobur" [ref=e548]
+                - generic [ref=e549]:
+                  - generic [ref=e553]: 
+                  - generic [ref=e554]: Jan 19
+              - paragraph [ref=e556]:
+                - generic [ref=e557]: Эти видимо решили не экспериментировать)
+          - 'link "Чат-Чай Чат-Чай Jan 16 Sergey : Я минут через 5-7)" [ref=e559] [cursor=pointer]':
+            - /url: "#-861086315"
+            - img "Чат-Чай" [ref=e564]
+            - generic [ref=e565]:
+              - generic [ref=e566]:
+                - button "Чат-Чай" [ref=e568]
+                - generic [ref=e569]: 
+                - generic [ref=e571]: Jan 16
+              - paragraph [ref=e573]:
+                - generic [ref=e574]: Sergey
+                - generic [ref=e575]: ":"
+                - generic [ref=e576]: Я минут через 5-7)
+          - link "Kseniya • bailagda • Kseniya • bailagda • Dec 5, 2025 Ых" [ref=e578] [cursor=pointer]:
+            - /url: "#1115565968"
+            - img "Kseniya • bailagda •" [ref=e583]
+            - generic [ref=e585]:
+              - generic [ref=e586]:
+                - button "Kseniya • bailagda •" [ref=e588]
+                - generic [ref=e593]: 
+                - generic [ref=e595]: Dec 5, 2025
+              - paragraph [ref=e597]:
+                - generic [ref=e598]: Ых
+          - link "Mikhail Delay Ivanov Mikhail Delay Ivanov Sep 15, 2025 Мск" [ref=e600] [cursor=pointer]:
+            - /url: "#291226358"
+            - img "Mikhail Delay Ivanov" [ref=e605]
+            - generic [ref=e607]:
+              - generic [ref=e608]:
+                - button "Mikhail Delay Ivanov" [ref=e610]
+                - generic [ref=e615]: 
+                - generic [ref=e617]: Sep 15, 2025
+              - paragraph [ref=e619]:
+                - generic [ref=e620]: Мск
+    - generic [ref=e621]:
+      - button "New Message" [ref=e622] [cursor=pointer]:
+        - generic [ref=e623]: 
+        - generic [ref=e624]: 
+      - generic:   
+  - img

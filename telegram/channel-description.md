@@ -7,7 +7,7 @@
 - 🧠 Идеи автоматизации
 - 🩹 Факапы и как их чинить
 
-Автор: Айдар Ибатуллин (@skysamurai)
+Автор: DarAI (@skysamurai)
 Курс: openclaw.dev
 GitHub: github.com/skysamurai
 Дзен: [добавить после создания]

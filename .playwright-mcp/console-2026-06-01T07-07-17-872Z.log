@@ -1,0 +1,254 @@
+[   41729ms] [INFO] This page uses Chrome's Built-In AI features (LanguageDetector)! We're always improving our models; please submit your feedback here: https://issues.chromium.org/issues/new?component=1583316 @ https://web.telegram.org/a/6010.afc5efc74deef1a0d7f3.js:0
+[   46698ms] [LOG] %c[2026-06-01T07:08:04.570Z] [ERROR] - [WebSocket connection failed attempt: 1] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   46698ms] [ERROR] Error: WebSocket connection timeout
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:281582 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   46699ms] [ERROR] WebSocket error Event @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   46699ms] [ERROR] Socket zws1.web.telegram.org closed. Code: 1006, reason: , was clean: false @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   47763ms] [LOG] %c[2026-06-01T07:08:05.635Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   48923ms] [LOG] %c[2026-06-01T07:08:06.795Z] [ERROR] - [HTTP connection failed attempt: 2] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   48924ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   48924ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   48924ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   48925ms] undefined
+[   48925ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   48925ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   48925ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   48925ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   49927ms] [LOG] %c[2026-06-01T07:08:07.798Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   50379ms] [LOG] %c[2026-06-01T07:08:08.251Z] [ERROR] - [HTTP connection failed attempt: 3] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   50379ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   50380ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   50380ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   50380ms] undefined
+[   50380ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   50380ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   50380ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   50380ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   51380ms] [LOG] %c[2026-06-01T07:08:09.252Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   52779ms] [LOG] %c[2026-06-01T07:08:10.650Z] [ERROR] - [HTTP connection failed attempt: 4] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   52779ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   52779ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   52779ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   52778ms] undefined
+[   52779ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   52779ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   52779ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   52779ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   53783ms] [LOG] %c[2026-06-01T07:08:11.655Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   54236ms] [LOG] %c[2026-06-01T07:08:12.108Z] [ERROR] - [HTTP connection failed attempt: 5] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   54236ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   54236ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   54237ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   54236ms] undefined
+[   54237ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   54236ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   54237ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   54236ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   55237ms] [LOG] %c[2026-06-01T07:08:13.108Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   55955ms] [LOG] %c[2026-06-01T07:08:13.826Z] [ERROR] - [HTTP connection failed attempt: 6] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   55955ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   55955ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   55955ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   55954ms] undefined
+[   55955ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   55955ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   55955ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   55955ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   56962ms] [LOG] %c[2026-06-01T07:08:14.833Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   57899ms] [LOG] %c[2026-06-01T07:08:15.771Z] [ERROR] - [HTTP connection failed attempt: 7] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   57899ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   57900ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   57900ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   57900ms] undefined
+[   57900ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   57900ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   57900ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   57900ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   58902ms] [LOG] %c[2026-06-01T07:08:16.773Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   59358ms] [LOG] %c[2026-06-01T07:08:17.230Z] [ERROR] - [HTTP connection failed attempt: 8] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   59358ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   59359ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   59359ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   59359ms] undefined
+[   59359ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   59359ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   59359ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   59359ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   60372ms] [LOG] %c[2026-06-01T07:08:18.244Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   60826ms] [LOG] %c[2026-06-01T07:08:18.697Z] [ERROR] - [HTTP connection failed attempt: 9] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   60826ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   60826ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   60826ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   60826ms] undefined
+[   60826ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   60827ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   60826ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   60826ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   61832ms] [LOG] %c[2026-06-01T07:08:19.704Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   62542ms] [LOG] %c[2026-06-01T07:08:20.414Z] [ERROR] - [HTTP connection failed attempt: 10] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   62542ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   62543ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   62543ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   62542ms] undefined
+[   62543ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   62543ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   62543ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   62543ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   63543ms] [LOG] %c[2026-06-01T07:08:21.415Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   64254ms] [LOG] %c[2026-06-01T07:08:22.126Z] [ERROR] - [HTTP connection failed attempt: 11] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   64254ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   64255ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   64255ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   64255ms] undefined
+[   64255ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   64255ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   64255ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   64255ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   65270ms] [LOG] %c[2026-06-01T07:08:23.142Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   65725ms] [LOG] %c[2026-06-01T07:08:23.596Z] [ERROR] - [HTTP connection failed attempt: 12] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   65725ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   65725ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   65725ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   65725ms] undefined
+[   65725ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   65725ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   65725ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   65725ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   66734ms] [LOG] %c[2026-06-01T07:08:24.606Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   68183ms] [LOG] %c[2026-06-01T07:08:26.055Z] [ERROR] - [HTTP connection failed attempt: 13] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   68183ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   68184ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   68184ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   68183ms] undefined
+[   68184ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   68184ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   68184ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   68184ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   69185ms] [LOG] %c[2026-06-01T07:08:27.056Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   69868ms] [LOG] %c[2026-06-01T07:08:27.740Z] [ERROR] - [HTTP connection failed attempt: 14] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   69868ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   69869ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   69869ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   69869ms] undefined
+[   69869ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   69869ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   69869ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   69869ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   70870ms] [LOG] %c[2026-06-01T07:08:28.742Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   71560ms] [LOG] %c[2026-06-01T07:08:29.432Z] [ERROR] - [HTTP connection failed attempt: 15] color : #ff0000 @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   71561ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   71561ms] [ERROR] PromiseRejectionEvent @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   71561ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   71561ms] undefined
+[   71561ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   71561ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680581
+[   71561ms] [ERROR] Uncaught TypeError: Cannot read properties of undefined (reading 'message') @ https://web.telegram.org/a/main.7524fe2cf3d868dfee6f.js:0
+[   71561ms] TypeError: Cannot read properties of undefined (reading 'message')
+    at self.onerror (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:680423)
+[   72575ms] [LOG] %c[2026-06-01T07:08:30.446Z] [WARN] - [Using fallback connection] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   74985ms] [ERROR] Error: HttpStream was closed
+    at 11862 (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:274725)
+    at a (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682057)
+    at https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682131
+    at a.O (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682378)
+    at a.x (https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:1:682150) @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   74985ms] [LOG] %c[2026-06-01T07:08:32.856Z] [WARN] - [Connection closed while receiving data] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[   74985ms] [ERROR] undefined @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
+[  527964ms] [LOG] %c[2026-06-01T07:16:05.836Z] [WARN] - [Telegram is having internal issues Ae] color : #ff00ff @ https://web.telegram.org/a/1862.4470e79ddfa92320d6aa.js:0
